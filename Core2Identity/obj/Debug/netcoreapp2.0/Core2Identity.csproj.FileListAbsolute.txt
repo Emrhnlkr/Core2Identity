@@ -1,0 +1,11 @@
+C:\Users\EmirHan\source\repos\Core2Identity\Core2Identity\bin\Debug\netcoreapp2.0\Core2Identity.deps.json
+C:\Users\EmirHan\source\repos\Core2Identity\Core2Identity\bin\Debug\netcoreapp2.0\Core2Identity.runtimeconfig.json
+C:\Users\EmirHan\source\repos\Core2Identity\Core2Identity\bin\Debug\netcoreapp2.0\Core2Identity.runtimeconfig.dev.json
+C:\Users\EmirHan\source\repos\Core2Identity\Core2Identity\bin\Debug\netcoreapp2.0\Core2Identity.dll
+C:\Users\EmirHan\source\repos\Core2Identity\Core2Identity\bin\Debug\netcoreapp2.0\Core2Identity.pdb
+C:\Users\EmirHan\source\repos\Core2Identity\Core2Identity\obj\Debug\netcoreapp2.0\Core2Identity.csprojAssemblyReference.cache
+C:\Users\EmirHan\source\repos\Core2Identity\Core2Identity\obj\Debug\netcoreapp2.0\Core2Identity.csproj.CoreCompileInputs.cache
+C:\Users\EmirHan\source\repos\Core2Identity\Core2Identity\obj\Debug\netcoreapp2.0\Core2Identity.AssemblyInfoInputs.cache
+C:\Users\EmirHan\source\repos\Core2Identity\Core2Identity\obj\Debug\netcoreapp2.0\Core2Identity.AssemblyInfo.cs
+C:\Users\EmirHan\source\repos\Core2Identity\Core2Identity\obj\Debug\netcoreapp2.0\Core2Identity.dll
+C:\Users\EmirHan\source\repos\Core2Identity\Core2Identity\obj\Debug\netcoreapp2.0\Core2Identity.pdb
